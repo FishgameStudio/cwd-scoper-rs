@@ -4,8 +4,8 @@
 ![Issues](https://img.shields.io/github/issues/FishgameStudio/cwd-scoper-rs)
 ![PRs](https://img.shields.io/github/issues-pr/FishgameStudio/cwd-scoper-rs)
 [![Rust](https://img.shields.io/badge/rust-1.70+-orange?logo=rust)](rust-lang.org)
-[![License](https://img.shields.io/github/license/FishgameStudio/cwd-scoper-rs)](LICENSE)
-[![Crates.Io](https://img.shields.io/crates/v/cwd-scoper)](https://crates.io/crates/cwd-scoper)
+[![License](https://img.shields.io/github/license/FishgameStudio/cwd-scoper-rs?cacheSeconds=3600)](LICENSE)
+[![Crates.Io](https://img.shields.io/crates/v/cwd-scoper?cacheSeconds=3600)](https://crates.io/crates/cwd-scoper)
 
 **cwd-scoper** is a **lightweight & easy-to-use** proc macro library to scope your runtime directory to avoid issues about relative directories.
 
