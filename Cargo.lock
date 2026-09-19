@@ -3,9 +3,10 @@
 version = 4
 
 [[package]]
-name = "cwd-scope"
+name = "cwd-scoper"
 version = "0.1.0"
 dependencies = [
+ "proc-macro2",
  "quote",
  "syn",
 ]
