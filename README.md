@@ -49,8 +49,8 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ### 🌟 Top contributors:
 
-<a href="https://github.com/FishgameStudio/cwd-scoper/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FishgameStudio/cwd-scoper" alt="contrib.rocks image" />
+<a href="https://github.com/FishgameStudio/cwd-scoper-rs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FishgameStudio/cwd-scoper-rs" alt="contrib.rocks image" />
 </a>
 
 ## 📃 License
