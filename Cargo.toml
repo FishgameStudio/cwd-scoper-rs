@@ -3,6 +3,10 @@ name = "cwd-scoper"
 version = "0.1.0"
 edition = "2024"
 
+description = "A lightwieght & easy-to-use Rust library to scope your working directory."
+license = "MIT"
+repository = "https://github.com/FishgameStudio/cwd-scoper-rs"
+
 [lib]
 name = "cwd_scoper"
 proc-macro = true
